@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="boofcv-v01">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/boofcv-v0.26-libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/boofcv-v0.26-libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/boofcv-v0.26-libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/boofcv-v0.26-libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
